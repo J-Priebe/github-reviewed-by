@@ -4,4 +4,4 @@
 3. Click `Load unpacked` and select the folder containing this project.
 
 
-Someday I might make this not crappy a worthy of an actual extension.
+Someday I might make this not crappy and worthy of an actual extension.

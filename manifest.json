@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Github Reviewed By Button",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://github.com/pulls*"
+      ],
+      "js": ["jquery-3.4.1.min.js", "content.js"]
+    }
+  ]
+}
